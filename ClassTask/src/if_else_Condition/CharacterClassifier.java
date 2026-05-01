@@ -1,4 +1,4 @@
-package ControlStatement;
+package if_else_Condition;
 
 import java.util.Scanner;
 
@@ -33,7 +33,7 @@ public class CharacterClassifier {
 		}else {
 			System.out.println("special charater");
 		}
-		
+		scanner.close();
 	
 	}
 }

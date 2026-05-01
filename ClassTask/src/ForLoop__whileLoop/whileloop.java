@@ -6,8 +6,11 @@ public class whileloop {
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
-		
+		int i;
 		while (true) {
+			
+				
+			
 //			System.out.println("Enter the name : ");
 //			String name= scanner.nextLine();
 //			System.out.println("your output = "+name);
@@ -24,6 +27,7 @@ public class whileloop {
 			int SUM = a+b;
 			System.out.println(SUM);
 			
+			scanner.close();
 			
 		}
 

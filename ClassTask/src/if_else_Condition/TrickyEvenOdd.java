@@ -1,4 +1,4 @@
-package ControlStatement;
+package if_else_Condition;
 
 import java.util.Scanner;
 
