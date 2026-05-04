@@ -9,8 +9,9 @@ public static void main(String[] args) {
 	System.out.println("enter the values : ");
 	int n=sc.nextInt();
 	
-	for(int i=1;i<=n;i++){
-		System.out.println("your number : "+i);
+	for(int i=10;i>=1;i--){
+		System.out.println("your number : "+i*n);
 	}
+	sc.close();
 }
 }
