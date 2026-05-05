@@ -11,6 +11,7 @@ public static void main(String[] args) {
 	
 	for(int i=10;i>=1;i--){
 		System.out.println("your number : "+i*n);
+		System.out.println("this is your output");
 	}
 	sc.close();
 }
